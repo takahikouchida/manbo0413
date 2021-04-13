@@ -72,7 +72,7 @@ const map = new Map({
         preload: Infinity,
         source: new BingMaps({
             culture : 'ja-JP',
-            key: ' ApKofKeRFHcvsdT-HWhOP-SqzkiDeepkvojpcSspYlgzZiEOuGvpSLyw1q45M9zk',
+            key: '',
           imagerySet: 'RoadOnDemand',
           // use maxZoom 19 to see stretched tiles instead of the BingMaps
           // "no photos at this zoom level" tiles
